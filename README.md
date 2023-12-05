@@ -2,11 +2,12 @@
 
 
 
-2023 1학기 VLSI design
-
-project1 -> MAC for Matrix multiplication
+2023 spring semester VLSI design
 
 
+project1 -> MAC+RAM/Verification for Matrix multiplication
 
 
-project2 -> 2D Jpeg image compression
+
+
+project2 -> 2D Jpeg image compression with Transpose memory and Verification // Created the smallest area
